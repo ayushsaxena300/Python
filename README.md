@@ -3,7 +3,7 @@ Repository to store sample Python programs.
 
 
 ## 🛠 Skills
-Python
+- Python
 
 
 ## Links of Python courses in this repository
