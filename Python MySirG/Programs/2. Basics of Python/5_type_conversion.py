@@ -8,7 +8,7 @@ print(type(x))
 # Type Conversion
 x="123"
 y=5
-print(int(x)+y) # Here print(x+y) gives us error, so we convert sring "123" in integer by using int(x) function.
+print(int(x)+y) # Here print(x+y) gives us error, so we convert string "123" in integer by using int(x) function.
 
 # int() type conversion
 x="123"
