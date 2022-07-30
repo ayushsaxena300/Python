@@ -25,7 +25,7 @@ print(x)
 
 # Print the value of binary, octal, hexa-decimal number as it is:-
 x=0x3f
-print(hex(x)) # It print(return) binary, octal, hexa-decimal as a srting
+print(hex(x)) # Here print(return) binary, octal, hexa-decimal as a srting
 
 x=0o10
 print(oct(x))
