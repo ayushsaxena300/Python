@@ -1,4 +1,4 @@
-# Sample Python Programs
+# Python
 Repository to store Python programs.
 
 
