@@ -1,5 +1,5 @@
 # Sample Python Programs
-Repository to store sample Python programs.
+Repository to store Python programs.
 
 
 ## 🛠 Skills
